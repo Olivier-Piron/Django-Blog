@@ -19,4 +19,4 @@ Run
 python manage.py runserver
 ```
 
-![./screen](.\Screenshot.jpg)
+![Screen](./Screenshot.jpg)
